@@ -1,25 +1,17 @@
-public class VipMember{
+public class VipMember extends Member{
+
     /**
      COMPLETE THIS CLASS AFTER MEMBER CLASS AND BEFORE FITNESS-TEST CLASS
-     Member class will be parent VipMember class so make whatever it requires
+     Member class will be parent VipMember class so do whatever it requires
      */
+
+    //Create 2 args constructor here - REMEMBER it can inherit parent class constructor (chain)
+
+
 
     /*
-    Define 2 different constructors for VipMember class
-    First one will be default - no args constructor
-    Second one will be 2 args constructor and will take name and memberId as arguments
+    Override getAnnualFee() method of parent class here
+    annualFee for VIP members is $400
      */
-
-    //Create default constructor here
-
-
-    //Create 2 args constructor here - REMEMBER it can inherit parent class constructor
-
-
-    //Override calculateAnnualFee() method of parent class here
-    //This method will calculate annualFee as $500
-
-
-    //Write a method called getDiscount() that returns calculates discount as 10 percent of annualFee
 
 }

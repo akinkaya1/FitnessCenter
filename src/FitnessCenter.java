@@ -5,22 +5,20 @@ public class FitnessCenter {
          COMPLETE THIS CLASS AFTER ALL OTHER CLASSES ARE COMPLETED
          */
 
-        //Create 1 object of each VipMember and NormalMember classes byt their 2 args constructors here
+        //Create 2 objects of NormalMember here
 
 
-        //Calculate annualFee for both VIP and Normal members here
+        //Create 2 objects of VipMember here
 
-        //Print all information of Normal Member here
-        System.out.println(">>> Information of Normal Member <<<");
+        /*
+        Store all NormalMember and VipMember objects in an array
+        Then print all their information (fullName, memberId)
+         */
 
-        //Print all information of VIP Member before discount here
-        System.out.println("\n>>> Information of VIP Member before discount <<<");
-
-
-        //Calculate discount for VIP Member here
-
-        //Print all information of VIP Member after discount here
-        System.out.println("\n>>> Information of VIP Member after discount <<<");
-
+        /*
+        Print annualFee for Vip and Normal members with messages below
+        Annual fee for Vip Members: {annualFeeForVipMembers}
+        Annual fee for Normal Members: {annualFeeForNormalMembers}
+         */
     }
 }
